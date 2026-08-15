@@ -76,7 +76,7 @@
             "last_commit": "2026-01-06T17:05:50Z",
             "owner": "terrytangyuan",
             "repo": "distributed-ml-patterns",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -178,7 +178,7 @@
                 "last_commit": "2017-09-23T23:50:55Z",
                 "owner": "mykoweb",
                 "repo": "epi-go",
-                "stars": 56
+                "stars": 55
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2024-05-12T00:47:46Z",
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43912
+                "stars": 43914
               }
             }
           ],
@@ -243,7 +243,7 @@
             "last_commit": "2024-05-12T00:47:46Z",
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43912
+            "stars": 43914
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2023-03-28T11:38:13Z",
             "owner": "joaoventura",
             "repo": "full-speed-python",
-            "stars": 4072
+            "stars": 4071
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-08-11T12:11:06Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394402
+            "stars": 394449
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14138
+            "stars": 14142
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5003
+            "stars": 5006
           }
         },
         {
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:08:13.423Z",
+    "last_updated": "2026-08-15T15:38:23.917Z",
     "original_repository": "linsa-io/books",
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",
     "enhanced_repository": "enhansome/enhansome-books",

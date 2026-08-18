@@ -336,7 +336,7 @@
             "last_commit": "2023-03-28T11:38:13Z",
             "owner": "joaoventura",
             "repo": "full-speed-python",
-            "stars": 4071
+            "stars": 4069
           }
         },
         {
@@ -381,10 +381,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:12:27Z",
+            "last_commit": "2026-08-17T10:13:18Z",
             "owner": "gibbok",
             "repo": "typescript-book",
-            "stars": 10340
+            "stars": 10339
           }
         },
         {
@@ -468,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T12:11:06Z",
+            "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394521
+            "stars": 394676
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14144
+            "stars": 14153
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5006
+            "stars": 5008
           }
         },
         {
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:40:00.474Z",
+    "last_updated": "2026-08-18T15:49:11.332Z",
     "original_repository": "linsa-io/books",
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",
     "enhanced_repository": "enhansome/enhansome-books",

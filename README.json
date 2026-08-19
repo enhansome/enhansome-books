@@ -474,7 +474,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394760
+            "stars": 394774
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14153
+            "stars": 14152
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5009
+            "stars": 5011
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:01.147Z",
+    "last_updated": "2026-08-19T15:49:05.849Z",
     "original_repository": "linsa-io/books",
     "original_repository_id": 93441336,
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",

@@ -247,7 +247,7 @@
                     "last_commit": "2024-05-12T00:47:46Z",
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43901
+                    "stars": 43903
                   }
                 }
               ],
@@ -258,7 +258,7 @@
                 "last_commit": "2024-05-12T00:47:46Z",
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43901
+                "stars": 43903
               }
             }
           ],
@@ -383,7 +383,7 @@
                 "last_commit": "2026-08-17T10:13:18Z",
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10338
+                "stars": 10340
               }
             },
             {
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394774
+            "stars": 394859
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14152
+            "stars": 14161
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5011
+            "stars": 5012
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2023-03-16T17:20:20Z",
             "owner": "mgp",
             "repo": "book-notes",
-            "stars": 4107
+            "stars": 4108
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1549
+            "stars": 1551
           }
         }
       ],
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:49:05.849Z",
+    "last_updated": "2026-08-20T15:51:21.061Z",
     "original_repository": "linsa-io/books",
     "original_repository_id": 93441336,
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",

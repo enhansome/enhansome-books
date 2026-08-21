@@ -247,7 +247,7 @@
                     "last_commit": "2024-05-12T00:47:46Z",
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43903
+                    "stars": 43905
                   }
                 }
               ],
@@ -258,7 +258,7 @@
                 "last_commit": "2024-05-12T00:47:46Z",
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43903
+                "stars": 43905
               }
             }
           ],
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 532590625,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:13:18Z",
+                "last_commit": "2026-08-21T07:18:53Z",
                 "owner": "gibbok",
                 "repo": "typescript-book",
                 "stars": 10340
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394859
+            "stars": 394911
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14161
+            "stars": 14162
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5012
+            "stars": 5014
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1551
+            "stars": 1553
           }
         }
       ],
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:51:21.061Z",
+    "last_updated": "2026-08-21T15:50:56.452Z",
     "original_repository": "linsa-io/books",
     "original_repository_id": 93441336,
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",

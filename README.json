@@ -247,7 +247,7 @@
                     "last_commit": "2024-05-12T00:47:46Z",
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43905
+                    "stars": 43907
                   }
                 }
               ],
@@ -258,7 +258,7 @@
                 "last_commit": "2024-05-12T00:47:46Z",
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43905
+                "stars": 43907
               }
             }
           ],
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394911
+            "stars": 394999
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14162
+            "stars": 14171
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2023-03-16T17:20:20Z",
             "owner": "mgp",
             "repo": "book-notes",
-            "stars": 4108
+            "stars": 4109
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2025-02-05T18:46:00Z",
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1553
+            "stars": 1554
           }
         }
       ],
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:50:56.452Z",
+    "last_updated": "2026-08-22T15:39:05.738Z",
     "original_repository": "linsa-io/books",
     "original_repository_id": 93441336,
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",

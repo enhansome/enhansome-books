@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 532590625,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T07:18:53Z",
+                "last_commit": "2026-08-23T10:08:21Z",
                 "owner": "gibbok",
                 "repo": "typescript-book",
                 "stars": 10340
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394999
+            "stars": 395069
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14171
+            "stars": 14176
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5014
+            "stars": 5015
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2023-03-16T17:20:20Z",
             "owner": "mgp",
             "repo": "book-notes",
-            "stars": 4109
+            "stars": 4110
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:39:05.738Z",
+    "last_updated": "2026-08-23T15:40:54.326Z",
     "original_repository": "linsa-io/books",
     "original_repository_id": 93441336,
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",

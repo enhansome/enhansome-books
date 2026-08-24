@@ -134,6 +134,55 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "📖 Operating Systems: From 0 to 1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81905084,
+            "language": "TeX",
+            "last_commit": "2024-03-26T16:21:49Z",
+            "owner": "tuhdo",
+            "repo": "os01",
+            "stars": 13681
+          }
+        }
+      ],
+      "title": "Operating Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "📕 Godel, escher, bach (1979)",
+          "description": "Explores fundamental concepts of mathematics, symmetry and intelligence and how they interlink.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python implementation of formal systems from the book",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5387139,
+                "language": "Python",
+                "last_commit": "2021-03-25T21:38:47Z",
+                "owner": "alexprengere",
+                "repo": "FormalSystems",
+                "stars": 627
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Philosophy"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "group",
           "title": "📕 Cracking the coding interview (2008)",
           "description": null,
@@ -232,6 +281,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "📕 C++ core guidelines (2017)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41058054,
+                "language": "CSS",
+                "last_commit": "2026-08-06T15:54:13Z",
+                "owner": "isocpp",
+                "repo": "CppCoreGuidelines",
+                "stars": 45264
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "📖 Build web application with golang",
               "description": null,
               "children": [
@@ -247,7 +318,7 @@
                     "last_commit": "2024-05-12T00:47:46Z",
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43907
+                    "stars": 43908
                   }
                 }
               ],
@@ -258,13 +329,42 @@
                 "last_commit": "2024-05-12T00:47:46Z",
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43907
+                "stars": 43908
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "📖 Write you a Haskell (2014)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Implementation in code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65272327,
+                    "language": "Haskell",
+                    "last_commit": "2016-08-17T15:02:35Z",
+                    "owner": "AlphaMarc",
+                    "repo": "WYAH",
+                    "stars": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Haskell"
         },
         {
           "children": [
@@ -321,6 +421,141 @@
           "children": [
             {
               "node_type": "item",
+              "title": "📖 You don’t know JS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "📖 Up and going",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "📖 Scope and closures",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "📖 This and object prototypes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "📖 Types and grammar",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "📖 Async and performance",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "📖 ES6 and beyond",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440270,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184718
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 14440270,
+                "language": null,
+                "last_commit": "2026-02-15T04:36:44Z",
+                "owner": "getify",
+                "repo": "You-Dont-Know-JS",
+                "stars": 184718
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📖 Purescript book (2017)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22409173,
+                "language": "PureScript",
+                "last_commit": "2018-10-16T20:03:44Z",
+                "owner": "paf31",
+                "repo": "purescript-book",
+                "stars": 450
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Purescript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "📖 Full Speed Python (2018)",
               "description": null,
               "children": [],
@@ -331,7 +566,7 @@
                 "last_commit": "2023-03-28T11:38:13Z",
                 "owner": "joaoventura",
                 "repo": "full-speed-python",
-                "stars": 4069
+                "stars": 4068
               }
             },
             {
@@ -372,6 +607,94 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "📕 Practical object oriented design in ruby (2012)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code solutions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4774751,
+                    "language": "Ruby",
+                    "last_commit": "2017-06-02T02:05:09Z",
+                    "owner": "skmetz",
+                    "repo": "poodr",
+                    "stars": 659
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Go implementation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6821544,
+                    "language": "Go",
+                    "last_commit": "2021-02-08T01:11:03Z",
+                    "owner": "nathany",
+                    "repo": "go-poodr",
+                    "stars": 109
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Notes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30597603,
+                    "language": "Ruby",
+                    "last_commit": "2015-02-19T18:06:27Z",
+                    "owner": "jordanpoulton",
+                    "repo": "practical_object_oriented_design_in_ruby",
+                    "stars": 84
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "📖 Swift programming language (2014)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Swift Cheat sheet",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27487477,
+                    "language": null,
+                    "last_commit": "2022-09-19T16:20:48Z",
+                    "owner": "jugend",
+                    "repo": "swift-cheat-sheet",
+                    "stars": 60
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "📖 The Concise TypeScript Book",
               "description": null,
@@ -383,7 +706,7 @@
                 "last_commit": "2026-08-23T10:08:21Z",
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10340
+                "stars": 10344
               }
             },
             {
@@ -474,7 +797,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395069
+            "stars": 395132
           }
         },
         {
@@ -489,7 +812,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14176
+            "stars": 14179
           }
         },
         {
@@ -504,7 +827,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5015
+            "stars": 5016
           }
         },
         {
@@ -542,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:40:54.326Z",
+    "last_updated": "2026-08-24T13:53:44.124Z",
     "original_repository": "linsa-io/books",
     "original_repository_id": 93441336,
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",

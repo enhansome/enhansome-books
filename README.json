@@ -57,7 +57,7 @@
                 "last_commit": "2022-09-06T10:26:05Z",
                 "owner": "havivha",
                 "repo": "Nand2Tetris",
-                "stars": 456
+                "stars": 455
               }
             }
           ]
@@ -291,7 +291,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45280
+                "stars": 45279
               }
             }
           ],
@@ -436,7 +436,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184741
+                    "stars": 184742
                   }
                 },
                 {
@@ -451,7 +451,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184741
+                    "stars": 184742
                   }
                 },
                 {
@@ -466,7 +466,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184741
+                    "stars": 184742
                   }
                 },
                 {
@@ -481,7 +481,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184741
+                    "stars": 184742
                   }
                 },
                 {
@@ -496,7 +496,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184741
+                    "stars": 184742
                   }
                 },
                 {
@@ -511,7 +511,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184741
+                    "stars": 184742
                   }
                 }
               ],
@@ -522,7 +522,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184741
+                "stars": 184742
               }
             }
           ],
@@ -581,7 +581,7 @@
                 "last_commit": "2026-06-08T05:07:46Z",
                 "owner": "pycollege",
                 "repo": "python-by-example",
-                "stars": 97
+                "stars": 98
               }
             },
             {
@@ -703,7 +703,7 @@
                 "archived": false,
                 "id": 532590625,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T10:08:21Z",
+                "last_commit": "2026-08-27T20:57:08Z",
                 "owner": "gibbok",
                 "repo": "typescript-book",
                 "stars": 10347
@@ -797,7 +797,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395313
+            "stars": 395362
           }
         },
         {
@@ -812,7 +812,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14187
+            "stars": 14188
           }
         },
         {
@@ -827,7 +827,7 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5023
+            "stars": 5021
           }
         },
         {
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:24.164Z",
+    "last_updated": "2026-08-28T00:26:34.401Z",
     "original_repository_info": {
       "archived": false,
       "id": 93441336,
@@ -873,7 +873,7 @@
       "last_commit": "2026-03-04T15:38:20Z",
       "owner": "linsa-io",
       "repo": "books",
-      "stars": 7608
+      "stars": 7612
     },
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",
     "enhanced_repository": "enhansome/enhansome-books",

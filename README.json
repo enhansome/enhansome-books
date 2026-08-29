@@ -16,7 +16,8 @@
             "owner": "gabrieldiego",
             "repo": "tg",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "group",
@@ -36,7 +37,8 @@
                 "owner": "ryandougherty",
                 "repo": "Introduction-to-the-Theory-of-Computation-Solutions",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         },
@@ -58,7 +60,8 @@
                 "owner": "havivha",
                 "repo": "Nand2Tetris",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         }
@@ -81,7 +84,8 @@
             "owner": "terrytangyuan",
             "repo": "distributed-ml-patterns",
             "stars": 535
-          }
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "group",
@@ -101,7 +105,8 @@
                 "owner": "nfmcclure",
                 "repo": "tensorflow_cookbook",
                 "stars": 6238
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         },
@@ -123,7 +128,8 @@
                 "owner": "Mostafa-Samir",
                 "repo": "How-Machine-Learning-Works",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         }
@@ -145,8 +151,9 @@
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13686
-          }
+            "stars": 13689
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         }
       ],
       "title": "Operating Systems"
@@ -172,7 +179,8 @@
                 "owner": "alexprengere",
                 "repo": "FormalSystems",
                 "stars": 627
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         }
@@ -200,7 +208,8 @@
                 "owner": "careercup",
                 "repo": "CtCI-6th-Edition-Swift",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         },
@@ -222,7 +231,8 @@
                 "owner": "adnanaziz",
                 "repo": "epicode",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             },
             {
               "node_type": "item",
@@ -237,7 +247,8 @@
                 "owner": "mykoweb",
                 "repo": "epi-go",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             },
             {
               "node_type": "item",
@@ -252,7 +263,8 @@
                 "owner": "tao-qian",
                 "repo": "Elements-of-Programming-Interviews-Java-Solution",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             },
             {
               "node_type": "item",
@@ -267,7 +279,8 @@
                 "owner": "akshaykumar90",
                 "repo": "sparkling-water",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         }
@@ -291,8 +304,9 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45279
-              }
+                "stars": 45281
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ],
           "description": null,
@@ -318,8 +332,9 @@
                     "last_commit": "2024-05-12T00:47:46Z",
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43907
-                  }
+                    "stars": 43908
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ],
               "repo_info": {
@@ -329,8 +344,9 @@
                 "last_commit": "2024-05-12T00:47:46Z",
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43907
-              }
+                "stars": 43908
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ],
           "description": null,
@@ -357,7 +373,8 @@
                     "owner": "AlphaMarc",
                     "repo": "WYAH",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ]
             }
@@ -386,7 +403,8 @@
                     "owner": "marhan",
                     "repo": "effective-java-examples",
                     "stars": 584
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ]
             },
@@ -408,7 +426,8 @@
                     "owner": "javabycomparison",
                     "repo": "samplecode",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ]
             }
@@ -436,8 +455,9 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184742
-                  }
+                    "stars": 184748
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -451,8 +471,9 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184742
-                  }
+                    "stars": 184748
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -466,8 +487,9 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184742
-                  }
+                    "stars": 184748
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -481,8 +503,9 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184742
-                  }
+                    "stars": 184748
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -496,8 +519,9 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184742
-                  }
+                    "stars": 184748
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -511,8 +535,9 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184742
-                  }
+                    "stars": 184748
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ],
               "repo_info": {
@@ -522,8 +547,9 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184742
-              }
+                "stars": 184748
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ],
           "description": null,
@@ -545,7 +571,8 @@
                 "owner": "paf31",
                 "repo": "purescript-book",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ],
           "description": null,
@@ -567,7 +594,8 @@
                 "owner": "joaoventura",
                 "repo": "full-speed-python",
                 "stars": 4068
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             },
             {
               "node_type": "item",
@@ -582,7 +610,8 @@
                 "owner": "pycollege",
                 "repo": "python-by-example",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             },
             {
               "node_type": "item",
@@ -597,7 +626,8 @@
                 "owner": "stjepanjurekovic",
                 "repo": "books",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ],
           "description": null,
@@ -624,7 +654,8 @@
                     "owner": "skmetz",
                     "repo": "poodr",
                     "stars": 659
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -639,7 +670,8 @@
                     "owner": "nathany",
                     "repo": "go-poodr",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 },
                 {
                   "node_type": "item",
@@ -654,7 +686,8 @@
                     "owner": "jordanpoulton",
                     "repo": "practical_object_oriented_design_in_ruby",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ]
             }
@@ -683,7 +716,8 @@
                     "owner": "jugend",
                     "repo": "swift-cheat-sheet",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ]
             }
@@ -703,11 +737,12 @@
                 "archived": false,
                 "id": 532590625,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:57:08Z",
+                "last_commit": "2026-08-28T19:52:32Z",
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10347
-              }
+                "stars": 10345
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             },
             {
               "node_type": "group",
@@ -727,7 +762,8 @@
                     "owner": "danvk",
                     "repo": "effective-typescript",
                     "stars": 1842
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ]
             }
@@ -755,7 +791,8 @@
             "owner": "SanQri",
             "repo": "safe-by-design",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "group",
@@ -775,7 +812,8 @@
                 "owner": "zv",
                 "repo": "SICP-guile",
                 "stars": 717
-              }
+              },
+              "first_seen": "2026-08-29T00:01:57.440Z"
             }
           ]
         }
@@ -797,8 +835,9 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395362
-          }
+            "stars": 395465
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "item",
@@ -812,8 +851,9 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14188
-          }
+            "stars": 14189
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "item",
@@ -827,8 +867,9 @@
             "last_commit": "2025-12-22T20:07:37Z",
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5021
-          }
+            "stars": 5023
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "item",
@@ -843,7 +884,8 @@
             "owner": "mgp",
             "repo": "book-notes",
             "stars": 4110
-          }
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         },
         {
           "node_type": "item",
@@ -858,14 +900,15 @@
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
             "stars": 1557
-          }
+          },
+          "first_seen": "2026-08-29T00:01:57.440Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:26:34.401Z",
+    "last_updated": "2026-08-29T00:01:57.440Z",
     "original_repository_info": {
       "archived": false,
       "id": 93441336,
@@ -873,7 +916,7 @@
       "last_commit": "2026-03-04T15:38:20Z",
       "owner": "linsa-io",
       "repo": "books",
-      "stars": 7612
+      "stars": 7613
     },
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",
     "enhanced_repository": "enhansome/enhansome-books",

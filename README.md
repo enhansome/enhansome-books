@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,281 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,284 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -819,8 +819,8 @@ The number after the book name stands for the year in which the book was written
 
 ### Go
 
-* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,908 | 🐛 138 | 🌐 Go | 📅 2024-05-12
-  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,908 | 🐛 138 | 🌐 Go | 📅 2024-05-12
+* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,907 | 🐛 138 | 🌐 Go | 📅 2024-05-12
+  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,907 | 🐛 138 | 🌐 Go | 📅 2024-05-12
 * [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 * [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 * [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
@@ -1222,11 +1222,11 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,465 | 🐛 91 | 🌐 Python | 📅 2026-08-18
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,189 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,482 | 🐛 92 | 🌐 Python | 📅 2026-08-18
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,190 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
 * [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,023 | 🐛 0 | 📅 2025-12-22
 * [Book notes](https://github.com/mgp/book-notes) ⭐ 4,110 | 🐛 8 | 📅 2023-03-16
-* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,557 | 🐛 0 | 📅 2025-02-05
+* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,558 | 🐛 0 | 📅 2025-02-05
 * [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 * [Influential CS books](https://github.com/chhantyal/influential-cs-books)
 * [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)

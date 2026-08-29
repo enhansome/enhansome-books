@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trabalho de Graduação",
+            "homepage": null,
             "id": 5974771,
             "language": "C++",
+            "license": null,
             "last_commit": "2014-11-02T18:52:34Z",
+            "open_issues": 0,
             "owner": "gabrieldiego",
             "repo": "tg",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solutions to Michael Sipser's Introduction to the Theory of Computation Book (3rd Edition).",
+                "homepage": "http://www.public.asu.edu/~redoughe/",
                 "id": 27314390,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2021-10-12T13:15:01Z",
+                "open_issues": 4,
                 "owner": "ryandougherty",
                 "repo": "Introduction-to-the-Theory-of-Computation-Solutions",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -54,12 +64,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computer implementation as described in \"The Elements of Computing Systems\"",
+                "homepage": null,
                 "id": 8688362,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-09-06T10:26:05Z",
+                "open_issues": 2,
                 "owner": "havivha",
                 "repo": "Nand2Tetris",
-                "stars": 455
+                "stars": 455,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -78,12 +93,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Machine Learning Patterns from Manning Publications by Yuan Tang https://bit.ly/2RKv8Zo",
+            "homepage": "https://bit.ly/2RKv8Zo",
             "id": 330007983,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T17:05:50Z",
+            "open_issues": 0,
             "owner": "terrytangyuan",
             "repo": "distributed-ml-patterns",
-            "stars": 535
+            "stars": 535,
+            "topics": [
+              "argo",
+              "argo-workflows",
+              "book",
+              "cloud-computing",
+              "cloud-native",
+              "data-science",
+              "devops",
+              "distributed-machine-learning",
+              "distributed-systems",
+              "kubeflow",
+              "kubernetes",
+              "large-scale-machine-learning",
+              "machine-learning",
+              "machine-learning-pipelines",
+              "manning-publications",
+              "mlops",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -99,12 +138,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Tensorflow Machine Learning Cookbook",
+                "homepage": "https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook-second-edition",
                 "id": 60849305,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-05-23T20:56:53Z",
+                "open_issues": 29,
                 "owner": "nfmcclure",
                 "repo": "tensorflow_cookbook",
-                "stars": 6238
+                "stars": 6238,
+                "topics": [
+                  "classification",
+                  "cnn",
+                  "genetic-algorithm",
+                  "kmeans-clustering",
+                  "linear-regression",
+                  "machine-learning",
+                  "neural-network",
+                  "nlp",
+                  "ode",
+                  "packtpub",
+                  "regression",
+                  "rnn",
+                  "svm",
+                  "tensorboard",
+                  "tensorflow",
+                  "tensorflow-algorithms",
+                  "tensorflow-cookbook"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -122,12 +184,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for How Machine Learning Works, Manning Publications",
+                "homepage": "https://www.manning.com/books/how-machine-learning-works",
                 "id": 115657430,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-03-03T12:32:48Z",
+                "open_issues": 2,
                 "owner": "Mostafa-Samir",
                 "repo": "How-Machine-Learning-Works",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "book",
+                  "machine-learning",
+                  "python",
+                  "scikit-learn",
+                  "statistical-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -146,12 +219,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+            "homepage": null,
             "id": 81905084,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-03-26T16:21:49Z",
+            "open_issues": 66,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13689
+            "stars": 13689,
+            "topics": [
+              "book",
+              "operating-system"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         }
@@ -173,12 +254,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python implementation of Douglas Hofstadter formal systems, from his book \"Gödel, Escher, Bach\"",
+                "homepage": "http://alexprengere.github.com/FormalSystems/",
                 "id": 5387139,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-25T21:38:47Z",
+                "open_issues": 3,
                 "owner": "alexprengere",
                 "repo": "FormalSystems",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -202,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cracking the Coding Interview 6th Ed. Swift Solutions",
+                "homepage": null,
                 "id": 51567774,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2022-06-15T10:05:31Z",
+                "open_issues": 5,
                 "owner": "careercup",
                 "repo": "CtCI-6th-Edition-Swift",
-                "stars": 451
+                "stars": 451,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -225,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Elements of Programming Interviews",
+                "homepage": null,
                 "id": 63513971,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-01-14T10:07:10Z",
+                "open_issues": 3,
                 "owner": "adnanaziz",
                 "repo": "epicode",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             },
@@ -241,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elements of Programming Interviews solutions in golang.",
+                "homepage": null,
                 "id": 72490728,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-09-23T23:50:55Z",
+                "open_issues": 0,
                 "owner": "mykoweb",
                 "repo": "epi-go",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             },
@@ -257,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Java solutions to Elements of Programming Interviews",
+                "homepage": null,
                 "id": 20867539,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-08-04T19:58:49Z",
+                "open_issues": 0,
                 "owner": "tao-qian",
                 "repo": "Elements-of-Programming-Interviews-Java-Solution",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             },
@@ -273,12 +381,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solutions for Elements of Programming Interviews",
+                "homepage": null,
                 "id": 21657480,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2015-02-05T17:46:55Z",
+                "open_issues": 0,
                 "owner": "akshaykumar90",
                 "repo": "sparkling-water",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "go"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -299,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+                "homepage": "http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
                 "id": 41058054,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T15:54:13Z",
+                "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45281
+                "stars": 45284,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -327,24 +447,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A golang ebook intro how to build a web with golang",
+                    "homepage": null,
                     "id": 5271882,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-05-12T00:47:46Z",
+                    "open_issues": 138,
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43908
+                    "stars": 43907,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A golang ebook intro how to build a web with golang",
+                "homepage": null,
                 "id": 5271882,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-05-12T00:47:46Z",
+                "open_issues": 138,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43908
+                "stars": 43907,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -367,12 +497,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of Write You A Haskell",
+                    "homepage": null,
                     "id": 65272327,
                     "language": "Haskell",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2016-08-17T15:02:35Z",
+                    "open_issues": 0,
                     "owner": "AlphaMarc",
                     "repo": "WYAH",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
@@ -397,12 +532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code to the book \"Effective Java Second Edition\" created by Joshua Bloch",
+                    "homepage": "http://java.sun.com/docs/books/effective/index.html",
                     "id": 1412323,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2017-10-12T03:44:25Z",
+                    "open_issues": 1,
                     "owner": "marhan",
                     "repo": "effective-java-examples",
-                    "stars": 584
+                    "stars": 584,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
@@ -420,12 +560,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The sample code of the book \"Java by Comparison\"",
+                    "homepage": "https://pragprog.com/titles/javacomp/source_code",
                     "id": 174676031,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2019-06-04T07:13:31Z",
+                    "open_issues": 0,
                     "owner": "javabycomparison",
                     "repo": "samplecode",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "clean-code",
+                      "java",
+                      "javabycomparison"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
@@ -450,12 +599,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184748
+                    "stars": 184748,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -466,12 +634,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184748
+                    "stars": 184748,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -482,12 +669,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184748
+                    "stars": 184748,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -498,12 +704,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184748
+                    "stars": 184748,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -514,12 +739,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184748
+                    "stars": 184748,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -530,24 +774,62 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184748
+                    "stars": 184748,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A book series (2 published editions) on the JS language.",
+                "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                 "id": 14440270,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-15T04:36:44Z",
+                "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184748
+                "stars": 184748,
+                "topics": [
+                  "async",
+                  "book",
+                  "book-series",
+                  "closures",
+                  "education",
+                  "es2015",
+                  "es6",
+                  "javascript",
+                  "learn-to-code",
+                  "programming",
+                  "prototypes",
+                  "training-materials",
+                  "training-providers"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -565,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sources for the PureScript book",
+                "homepage": null,
                 "id": 22409173,
                 "language": "PureScript",
+                "license": null,
                 "last_commit": "2018-10-16T20:03:44Z",
+                "open_issues": 39,
                 "owner": "paf31",
                 "repo": "purescript-book",
-                "stars": 450
+                "stars": 450,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -588,12 +875,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full Speed Python: a book for self-learners",
+                "homepage": null,
                 "id": 125901069,
                 "language": "Makefile",
+                "license": null,
                 "last_commit": "2023-03-28T11:38:13Z",
+                "open_issues": 1,
                 "owner": "joaoventura",
                 "repo": "full-speed-python",
-                "stars": 4068
+                "stars": 4068,
+                "topics": [
+                  "books",
+                  "learning-by-doing",
+                  "learning-python",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             },
@@ -604,12 +901,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A practical, example-driven guide to learning Python with clear explanations and real coding tasks.",
+                "homepage": null,
                 "id": 1141661355,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-08T05:07:46Z",
+                "open_issues": 0,
                 "owner": "pycollege",
                 "repo": "python-by-example",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "awesome-python",
+                  "python",
+                  "python-basics",
+                  "python-book",
+                  "python-books",
+                  "python-by-example",
+                  "python-by-examples",
+                  "python-example",
+                  "python-examples",
+                  "python-learning",
+                  "python-script",
+                  "python-tutorial",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             },
@@ -620,12 +936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Books",
+                "homepage": null,
                 "id": 381341064,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-04T15:20:03Z",
+                "open_issues": 0,
                 "owner": "stjepanjurekovic",
                 "repo": "books",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -648,12 +969,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Practical Object-Oriented Design in Ruby",
+                    "homepage": null,
                     "id": 4774751,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2017-06-02T02:05:09Z",
+                    "open_issues": 5,
                     "owner": "skmetz",
                     "repo": "poodr",
-                    "stars": 659
+                    "stars": 659,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -664,12 +990,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Go translation of the example code from Practical Object-Oriented Design in Ruby by Sandi Metz.",
+                    "homepage": null,
                     "id": 6821544,
                     "language": "Go",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-02-08T01:11:03Z",
+                    "open_issues": 0,
                     "owner": "nathany",
                     "repo": "go-poodr",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 },
@@ -680,12 +1011,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The book by Sandi Metz is incredible. This is my homage to her :)",
+                    "homepage": null,
                     "id": 30597603,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2015-02-19T18:06:27Z",
+                    "open_issues": 0,
                     "owner": "jordanpoulton",
                     "repo": "practical_object_oriented_design_in_ruby",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
@@ -710,12 +1046,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Swift Programming Language Book - Cheat Sheet",
+                    "homepage": null,
                     "id": 27487477,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-09-19T16:20:48Z",
+                    "open_issues": 0,
                     "owner": "jugend",
                     "repo": "swift-cheat-sheet",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
@@ -735,12 +1076,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+                "homepage": "https://gibbok.github.io/typescript-book/",
                 "id": 532590625,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:52:32Z",
+                "open_issues": 1,
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10345
+                "stars": 10345,
+                "topics": [
+                  "book",
+                  "free",
+                  "javascript",
+                  "javascript-book",
+                  "learn-typescript",
+                  "typescript",
+                  "typescript-book",
+                  "typescript-guide",
+                  "typescript-guidebook",
+                  "typescript-language",
+                  "typescript-learning",
+                  "typescript-tutorials"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             },
@@ -756,12 +1115,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Effective TypeScript 2nd Edition: 83 Specific Ways to Improve Your TypeScript",
+                    "homepage": "https://effectivetypescript.com",
                     "id": 216239754,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-19T20:18:22Z",
+                    "open_issues": 31,
                     "owner": "danvk",
                     "repo": "effective-typescript",
-                    "stars": 1842
+                    "stars": 1842,
+                    "topics": [
+                      "books",
+                      "typescript",
+                      "utterances"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
                 }
@@ -785,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This book is a distillation of my thoughts on the software creation process — how code evolves, and how we can keep it correct, maintainable, and scalable by relying on thoughtful design and the compiler as a partner.",
+            "homepage": null,
             "id": 1028038427,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-07-29T01:54:13Z",
+            "open_issues": 0,
             "owner": "SanQri",
             "repo": "safe-by-design",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -806,12 +1179,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SICP in Guile & Emacs Lisp",
+                "homepage": null,
                 "id": 60649726,
                 "language": "Racket",
+                "license": null,
                 "last_commit": "2022-05-07T19:22:45Z",
+                "open_issues": 2,
                 "owner": "zv",
                 "repo": "SICP-guile",
-                "stars": 717
+                "stars": 717,
+                "topics": [
+                  "guile",
+                  "sicp"
+                ]
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
             }
@@ -830,12 +1211,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395465
+            "stars": 395482,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -846,12 +1238,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :books: Find your next book to read!",
+            "homepage": "https://mindexpandingbooks.com",
             "id": 36554250,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-09T17:06:27Z",
+            "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14189
+            "stars": 14190,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "biographies",
+              "books",
+              "computer-science",
+              "economics",
+              "fiction",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "history",
+              "mind-expanding-books",
+              "philosophy",
+              "politics",
+              "psychology",
+              "sexuality",
+              "startups",
+              "theater"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -862,12 +1277,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sci-Fi worth consuming",
+            "homepage": null,
             "id": 29582583,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-12-22T20:07:37Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5023
+            "stars": 5023,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "books",
+              "list",
+              "movies",
+              "novels",
+              "recommendations",
+              "science-fiction",
+              "scifi"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -878,12 +1308,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notes from books and other interesting things that I've read. Table of contents at the end 👇",
+            "homepage": "http://omgitsmgp.com/",
             "id": 4038041,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-16T17:20:20Z",
+            "open_issues": 8,
             "owner": "mgp",
             "repo": "book-notes",
-            "stars": 4110
+            "stars": 4110,
+            "topics": [
+              "book-notes",
+              "books",
+              "notes",
+              "reading",
+              "reading-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         },
@@ -894,12 +1335,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":european_castle: Fantasy literature worth reading",
+            "homepage": null,
             "id": 33763279,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-05T18:46:00Z",
+            "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1557
+            "stars": 1558,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "fantasy",
+              "list",
+              "literature",
+              "movies"
+            ]
           },
           "first_seen": "2026-08-29T00:01:57.440Z"
         }
@@ -908,15 +1361,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:57.440Z",
+    "last_updated": "2026-08-29T04:13:34.827Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Books",
+      "homepage": null,
       "id": 93441336,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-04T15:38:20Z",
+      "open_issues": 15,
       "owner": "linsa-io",
       "repo": "books",
-      "stars": 7613
+      "stars": 7613,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "books",
+        "education",
+        "free",
+        "learn-anything",
+        "learning",
+        "list",
+        "pdf",
+        "resources"
+      ]
     },
     "original_repository_sha": "d08c699579b113ee6e9b6d8773d96ca6093fb530",
     "enhanced_repository": "enhansome/enhansome-books",

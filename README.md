@@ -203,7 +203,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Category theory
 
-* [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,692 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
+* [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,693 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
 * [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
 * [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
 * [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
@@ -291,7 +291,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Cryptocurrencies
 
-* [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook) ⭐ 21,519 | 🐛 0 | 📅 2026-08-31
+* [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook) ⭐ 21,521 | 🐛 0 | 📅 2026-08-31
 
 ## Data Science
 
@@ -550,7 +550,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Machine learning
 
-* [📖 Distributed Machine Learning Patterns (2023)](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 537 | 🐛 4 | 🌐 Python | 📅 2026-01-06 - Distributed machine learning system patterns.
+* [📖 Distributed Machine Learning Patterns (2023)](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 538 | 🐛 4 | 🌐 Python | 📅 2026-01-06 - Distributed machine learning system patterns.
 * [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 * [📕 Artificial intelligence a modern approach (1994)](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
 * [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
@@ -563,7 +563,7 @@ The number after the book name stands for the year in which the book was written
 * [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 * [📕 Deep Larning with Python (2017)](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)
 * [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
-  * [Code](https://github.com/nfmcclure/tensorflow_cookbook) ⭐ 6,239 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2024-05-23
+  * [Code](https://github.com/nfmcclure/tensorflow_cookbook) ⭐ 6,238 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2024-05-23
 * [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 * [📕 Machine Learning with Go (2017)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) - Build simple, maintainable, and easy to deploy machine learning applications.
 * [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
@@ -713,7 +713,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Operating Systems
 
-* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,697 | 🐛 66 | 🌐 TeX | 📅 2024-03-26
+* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,699 | 🐛 66 | 🌐 TeX | 📅 2024-03-26
 * [📕 Operating system concepts (1983)](https://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 * [📕 Modern operating systems (1992)](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 * [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,307 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,309 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -819,8 +819,8 @@ The number after the book name stands for the year in which the book was written
 
 ### Go
 
-* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,906 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,906 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,905 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,905 | 🐛 139 | 🌐 Go | 📅 2024-05-12
 * [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 * [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 * [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
@@ -859,13 +859,13 @@ The number after the book name stands for the year in which the book was written
 
 ### JavaScript
 
-* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
-  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
-  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
-  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
-  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
-  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
-  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
+* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
+  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
+  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
+  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
+  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
+  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
+  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 184,827 | 🐛 2 | 📅 2026-02-15
 * [📖 Exploring js](http://exploringjs.com/)
 * [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org)
 * [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
@@ -971,9 +971,9 @@ The number after the book name stands for the year in which the book was written
 
 ### TypeScript
 
-* [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,343 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-04
+* [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,341 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-04
 * [📕 Effective TypeScript: 62 Specific Ways to Improve Your TypeScript (2019)](https://www.goodreads.com/book/show/48570456)
-  * [Notes](https://github.com/danvk/effective-typescript) ⭐ 1,846 | 🐛 31 | 📅 2025-12-19
+  * [Notes](https://github.com/danvk/effective-typescript) ⭐ 1,847 | 🐛 31 | 📅 2025-12-19
 * [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 * [📖 SaaS Boilerplate Book: Build a Production-Ready SaaS Web App from Scratch (2020)](https://builderbook.org/book)
 
@@ -1222,11 +1222,11 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 396,092 | 🐛 83 | 🌐 Python | 📅 2026-09-01
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,221 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
-* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,031 | 🐛 0 | 📅 2025-12-22
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 396,203 | 🐛 78 | 🌐 Python | 📅 2026-09-06
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,226 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,034 | 🐛 0 | 📅 2025-12-22
 * [Book notes](https://github.com/mgp/book-notes) ⭐ 4,110 | 🐛 8 | 📅 2023-03-16
-* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,566 | 🐛 0 | 📅 2025-02-05
+* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,567 | 🐛 0 | 📅 2025-02-05
 * [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 * [Influential CS books](https://github.com/chhantyal/influential-cs-books)
 * [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
@@ -1239,4 +1239,4 @@ The number after the book name stands for the year in which the book was written
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

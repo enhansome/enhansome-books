@@ -147,7 +147,7 @@
                 "open_issues": 29,
                 "owner": "nfmcclure",
                 "repo": "tensorflow_cookbook",
-                "stars": 6238,
+                "stars": 6239,
                 "topics": [
                   "classification",
                   "cnn",
@@ -228,7 +228,7 @@
             "open_issues": 66,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13704,
+            "stars": 13703,
             "topics": [
               "book",
               "operating-system"
@@ -423,7 +423,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45314,
+                "stars": 45313,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -456,7 +456,7 @@
                     "open_issues": 139,
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43902,
+                    "stars": 43901,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
@@ -473,7 +473,7 @@
                 "open_issues": 139,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43902,
+                "stars": 43901,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -608,7 +608,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184861,
+                    "stars": 184869,
                     "topics": [
                       "async",
                       "book",
@@ -643,7 +643,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184861,
+                    "stars": 184869,
                     "topics": [
                       "async",
                       "book",
@@ -678,7 +678,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184861,
+                    "stars": 184869,
                     "topics": [
                       "async",
                       "book",
@@ -713,7 +713,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184861,
+                    "stars": 184869,
                     "topics": [
                       "async",
                       "book",
@@ -748,7 +748,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184861,
+                    "stars": 184869,
                     "topics": [
                       "async",
                       "book",
@@ -783,7 +783,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184861,
+                    "stars": 184869,
                     "topics": [
                       "async",
                       "book",
@@ -814,7 +814,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184861,
+                "stars": 184869,
                 "topics": [
                   "async",
                   "book",
@@ -1085,7 +1085,7 @@
                 "open_issues": 1,
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10343,
+                "stars": 10342,
                 "topics": [
                   "book",
                   "free",
@@ -1216,11 +1216,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-10T16:15:02Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-13T01:04:12Z",
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396604,
+            "stars": 396684,
             "topics": [
               "books",
               "education",
@@ -1247,7 +1247,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14244,
+            "stars": 14250,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1286,7 +1286,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5042,
+            "stars": 5043,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1317,7 +1317,7 @@
             "open_issues": 8,
             "owner": "mgp",
             "repo": "book-notes",
-            "stars": 4110,
+            "stars": 4112,
             "topics": [
               "book-notes",
               "books",
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:28.649Z",
+    "last_updated": "2026-09-13T18:14:18.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Books",
@@ -1373,7 +1373,7 @@
       "open_issues": 16,
       "owner": "linsa-io",
       "repo": "books",
-      "stars": 7646,
+      "stars": 7648,
       "topics": [
         "awesome",
         "awesome-list",

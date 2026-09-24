@@ -713,7 +713,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Operating Systems
 
-* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,714 | 🐛 67 | 🌐 TeX | 📅 2024-03-26
+* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,715 | 🐛 67 | 🌐 TeX | 📅 2024-03-26
 * [📕 Operating system concepts (1983)](https://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 * [📕 Modern operating systems (1992)](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 * [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,329 | 🐛 248 | 🌐 CSS | 📅 2026-08-06
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,332 | 🐛 248 | 🌐 CSS | 📅 2026-08-06
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -819,8 +819,8 @@ The number after the book name stands for the year in which the book was written
 
 ### Go
 
-* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,898 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,898 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,895 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,895 | 🐛 139 | 🌐 Go | 📅 2024-05-12
 * [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 * [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 * [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
@@ -912,7 +912,7 @@ The number after the book name stands for the year in which the book was written
 
 ### Python
 
-* [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python) ⭐ 4,068 | 🐛 1 | 🌐 Makefile | 📅 2023-03-28
+* [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python) ⭐ 4,067 | 🐛 1 | 🌐 Makefile | 📅 2023-03-28
 * [📖 Python by Example (2026)](https://github.com/pycollege/python-by-example) ⭐ 100 | 🐛 0 | 🌐 Python | 📅 2026-06-08
 * [📕 A Pythonic Adventure (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) ⭐ 1 | 🐛 0 | 📅 2026-03-04 - children friendly
 * [📕 Python essential reference (1999)](https://www.goodreads.com/book/show/6666430-python-essential-reference)
@@ -971,7 +971,7 @@ The number after the book name stands for the year in which the book was written
 
 ### TypeScript
 
-* [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,353 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23
+* [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,354 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23
 * [📕 Effective TypeScript: 62 Specific Ways to Improve Your TypeScript (2019)](https://www.goodreads.com/book/show/48570456)
   * [Notes](https://github.com/danvk/effective-typescript) ⭐ 1,851 | 🐛 31 | 📅 2025-12-19
 * [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
@@ -983,7 +983,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Programming
 
-* [📖 Safe by Design: Explorations in Software Architecture and Expressiveness](https://github.com/SanQri/safe-by-design) ⭐ 59 | 🐛 0 | 📅 2025-07-29 - The book tells about enforcing safety by design and provides examples that can be applied in gamedev.
+* [📖 Safe by Design: Explorations in Software Architecture and Expressiveness](https://github.com/SanQri/safe-by-design) ⭐ 60 | 🐛 0 | 📅 2025-07-29 - The book tells about enforcing safety by design and provides examples that can be applied in gamedev.
 * [📕 The art of computer programming (1968-)](https://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
 * [📕 The psychology of computer programming (1971)](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 * [📕 The elements of programming style (1974)](https://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
@@ -1222,11 +1222,11 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 397,522 | 🐛 83 | 🌐 Python | 📅 2026-09-22
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,294 | 🐛 34 | 🌐 JavaScript | 📅 2024-11-09
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 397,577 | 🐛 78 | 🌐 Python | 📅 2026-09-24
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,298 | 🐛 34 | 🌐 JavaScript | 📅 2024-11-09
 * [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,058 | 🐛 1 | 📅 2025-12-22
 * [Book notes](https://github.com/mgp/book-notes) ⭐ 4,116 | 🐛 8 | 📅 2023-03-16
-* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,576 | 🐛 0 | 📅 2025-02-05
+* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,577 | 🐛 0 | 📅 2025-02-05
 * [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 * [Influential CS books](https://github.com/chhantyal/influential-cs-books)
 * [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
@@ -1239,4 +1239,4 @@ The number after the book name stands for the year in which the book was written
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

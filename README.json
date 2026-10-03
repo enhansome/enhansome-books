@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "📖 Introduction to data compression (2012)",
-          "description": null,
+          "description": "gabrieldiego/tg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "Solutions",
-              "description": null,
+              "description": "ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -60,7 +60,7 @@
             {
               "node_type": "item",
               "title": "Computer implementation",
-              "description": null,
+              "description": "havivha/Nand2Tetris",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +134,7 @@
             {
               "node_type": "item",
               "title": "nfmcclure/tensorflow_cookbook",
-              "description": null,
+              "description": "nfmcclure/tensorflow_cookbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -180,7 +180,7 @@
             {
               "node_type": "item",
               "title": "Mostafa-Samir/How-Machine-Learning-Works",
-              "description": null,
+              "description": "Mostafa-Samir/How-Machine-Learning-Works",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -215,7 +215,7 @@
         {
           "node_type": "item",
           "title": "📖 Operating Systems: From 0 to 1",
-          "description": null,
+          "description": "tuhdo/os01",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -250,7 +250,7 @@
             {
               "node_type": "item",
               "title": "Python implementation of formal systems from the book",
-              "description": null,
+              "description": "alexprengere/FormalSystems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "Solutions in swift",
-              "description": null,
+              "description": "careercup/CtCI-6th-Edition-Swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "solutions in c++",
-              "description": null,
+              "description": "adnanaziz/epicode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -335,7 +335,7 @@
             {
               "node_type": "item",
               "title": "Solutions in Go",
-              "description": null,
+              "description": "mykoweb/epi-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -356,7 +356,7 @@
             {
               "node_type": "item",
               "title": "Solutions in Java",
-              "description": null,
+              "description": "tao-qian/Elements-of-Programming-Interviews-Java-Solution",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -377,7 +377,7 @@
             {
               "node_type": "item",
               "title": "Solutions in Python",
-              "description": null,
+              "description": "akshaykumar90/sparkling-water",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "📕 C++ core guidelines (2017)",
-              "description": null,
+              "description": "isocpp/CppCoreGuidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45352,
+                "stars": 45353,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -438,12 +438,12 @@
             {
               "node_type": "item",
               "title": "📖 Build web application with golang",
-              "description": null,
+              "description": "astaxie/build-web-application-with-golang",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Multiple Language Versions",
-                  "description": null,
+                  "description": "astaxie/build-web-application-with-golang",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -456,7 +456,7 @@
                     "open_issues": 139,
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43889,
+                    "stars": 43890,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
@@ -473,7 +473,7 @@
                 "open_issues": 139,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43889,
+                "stars": 43890,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -493,7 +493,7 @@
                 {
                   "node_type": "item",
                   "title": "Implementation in code",
-                  "description": null,
+                  "description": "AlphaMarc/WYAH",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -528,7 +528,7 @@
                 {
                   "node_type": "item",
                   "title": "Code examples",
-                  "description": null,
+                  "description": "marhan/effective-java-examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -556,7 +556,7 @@
                 {
                   "node_type": "item",
                   "title": "Code examples",
-                  "description": null,
+                  "description": "javabycomparison/samplecode",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -590,12 +590,12 @@
             {
               "node_type": "item",
               "title": "📖 You don’t know JS",
-              "description": null,
+              "description": "getify/You-Dont-Know-JS",
               "children": [
                 {
                   "node_type": "item",
                   "title": "📖 Up and going",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -608,7 +608,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185010,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -630,7 +630,7 @@
                 {
                   "node_type": "item",
                   "title": "📖 Scope and closures",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -643,7 +643,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185010,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -665,7 +665,7 @@
                 {
                   "node_type": "item",
                   "title": "📖 This and object prototypes",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -678,7 +678,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185010,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -700,7 +700,7 @@
                 {
                   "node_type": "item",
                   "title": "📖 Types and grammar",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -713,7 +713,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185010,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -735,7 +735,7 @@
                 {
                   "node_type": "item",
                   "title": "📖 Async and performance",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -748,7 +748,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185010,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -770,7 +770,7 @@
                 {
                   "node_type": "item",
                   "title": "📖 ES6 and beyond",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -783,7 +783,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 185010,
+                    "stars": 185009,
                     "topics": [
                       "async",
                       "book",
@@ -814,7 +814,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 185010,
+                "stars": 185009,
                 "topics": [
                   "async",
                   "book",
@@ -843,7 +843,7 @@
             {
               "node_type": "item",
               "title": "📖 Purescript book (2017)",
-              "description": null,
+              "description": "paf31/purescript-book",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -871,7 +871,7 @@
             {
               "node_type": "item",
               "title": "📖 Full Speed Python (2018)",
-              "description": null,
+              "description": "joaoventura/full-speed-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -897,7 +897,7 @@
             {
               "node_type": "item",
               "title": "📖 Python by Example (2026)",
-              "description": null,
+              "description": "pycollege/python-by-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +965,7 @@
                 {
                   "node_type": "item",
                   "title": "Code solutions",
-                  "description": null,
+                  "description": "skmetz/poodr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -986,7 +986,7 @@
                 {
                   "node_type": "item",
                   "title": "Go implementation",
-                  "description": null,
+                  "description": "nathany/go-poodr",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1007,7 +1007,7 @@
                 {
                   "node_type": "item",
                   "title": "Notes",
-                  "description": null,
+                  "description": "jordanpoulton/practical_object_oriented_design_in_ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1042,7 +1042,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift Cheat sheet",
-                  "description": null,
+                  "description": "jugend/swift-cheat-sheet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "📖 The Concise TypeScript Book",
-              "description": null,
+              "description": "gibbok/typescript-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1111,7 +1111,7 @@
                 {
                   "node_type": "item",
                   "title": "Notes",
-                  "description": null,
+                  "description": "danvk/effective-typescript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1175,7 +1175,7 @@
             {
               "node_type": "item",
               "title": "SICP in Emacs Lisp",
-              "description": null,
+              "description": "zv/SICP-guile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1207,7 +1207,7 @@
         {
           "node_type": "item",
           "title": "Free programming books",
-          "description": null,
+          "description": "EbookFoundation/free-programming-books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1220,7 +1220,7 @@
             "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398326,
+            "stars": 398349,
             "topics": [
               "books",
               "education",
@@ -1234,7 +1234,7 @@
         {
           "node_type": "item",
           "title": "Mind expanding books",
-          "description": null,
+          "description": "hackerkid/Mind-Expanding-Books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1247,7 +1247,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14328,
+            "stars": 14331,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1273,7 +1273,7 @@
         {
           "node_type": "item",
           "title": "Awesome scifi",
-          "description": null,
+          "description": "sindresorhus/awesome-scifi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1304,7 +1304,7 @@
         {
           "node_type": "item",
           "title": "Book notes",
-          "description": null,
+          "description": "mgp/book-notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1331,7 +1331,7 @@
         {
           "node_type": "item",
           "title": "Awesome fantasy",
-          "description": null,
+          "description": "RichardLitt/awesome-fantasy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:58:26.380Z",
+    "last_updated": "2026-10-03T04:34:12.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Books",
@@ -1373,7 +1373,7 @@
       "open_issues": 16,
       "owner": "linsa-io",
       "repo": "books",
-      "stars": 7681,
+      "stars": 7683,
       "topics": [
         "awesome",
         "awesome-list",

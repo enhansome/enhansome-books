@@ -203,7 +203,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Category theory
 
-* [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,695 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
+* [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,696 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
 * [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
 * [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
 * [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
@@ -291,7 +291,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Cryptocurrencies
 
-* [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook) ⭐ 21,534 | 🐛 1 | 📅 2026-09-22
+* [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook) ⭐ 21,532 | 🐛 1 | 📅 2026-09-22
 
 ## Data Science
 
@@ -713,7 +713,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Operating Systems
 
-* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,719 | 🐛 67 | 🌐 TeX | 📅 2024-03-26
+* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,723 | 🐛 67 | 🌐 TeX | 📅 2024-03-26
 * [📕 Operating system concepts (1983)](https://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 * [📕 Modern operating systems (1992)](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 * [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,355 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,353 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -819,8 +819,8 @@ The number after the book name stands for the year in which the book was written
 
 ### Go
 
-* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,890 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,890 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,889 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,889 | 🐛 139 | 🌐 Go | 📅 2024-05-12
 * [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 * [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 * [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
@@ -859,13 +859,13 @@ The number after the book name stands for the year in which the book was written
 
 ### JavaScript
 
-* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
-  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
-  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
-  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
-  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
-  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
-  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 185,013 | 🐛 2 | 📅 2026-02-15
+* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
+  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
+  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
+  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
+  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
+  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
+  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 185,011 | 🐛 2 | 📅 2026-02-15
 * [📖 Exploring js](http://exploringjs.com/)
 * [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org)
 * [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
@@ -912,7 +912,7 @@ The number after the book name stands for the year in which the book was written
 
 ### Python
 
-* [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python) ⭐ 4,068 | 🐛 1 | 🌐 Makefile | 📅 2023-03-28
+* [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python) ⭐ 4,069 | 🐛 1 | 🌐 Makefile | 📅 2023-03-28
 * [📖 Python by Example (2026)](https://github.com/pycollege/python-by-example) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2026-06-08
 * [📕 A Pythonic Adventure (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) ⭐ 1 | 🐛 0 | 📅 2026-03-04 - children friendly
 * [📕 Python essential reference (1999)](https://www.goodreads.com/book/show/6666430-python-essential-reference)
@@ -1222,9 +1222,9 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,407 | 🐛 87 | 🌐 Python | 📅 2026-10-02
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,334 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
-* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,069 | 🐛 1 | 📅 2025-12-22
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,463 | 🐛 87 | 🌐 Python | 📅 2026-10-02
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,337 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,070 | 🐛 1 | 📅 2025-12-22
 * [Book notes](https://github.com/mgp/book-notes) ⭐ 4,115 | 🐛 8 | 📅 2023-03-16
 * [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,580 | 🐛 0 | 📅 2026-10-01
 * [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
@@ -1239,4 +1239,4 @@ The number after the book name stands for the year in which the book was written
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

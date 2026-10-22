@@ -203,7 +203,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Category theory
 
-* [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,700 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
+* [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,703 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
 * [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
 * [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
 * [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
@@ -291,7 +291,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Cryptocurrencies
 
-* [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook) ⭐ 21,537 | 🐛 1 | 📅 2026-10-12
+* [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook) ⭐ 21,536 | 🐛 1 | 📅 2026-10-12
 
 ## Data Science
 
@@ -563,7 +563,7 @@ The number after the book name stands for the year in which the book was written
 * [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 * [📕 Deep Larning with Python (2017)](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)
 * [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
-  * [Code](https://github.com/nfmcclure/tensorflow_cookbook) ⭐ 6,237 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2024-05-23
+  * [Code](https://github.com/nfmcclure/tensorflow_cookbook) ⭐ 6,238 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2024-05-23
 * [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 * [📕 Machine Learning with Go (2017)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) - Build simple, maintainable, and easy to deploy machine learning applications.
 * [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,393 | 🐛 248 | 🌐 CSS | 📅 2026-10-01
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,382 | 🐛 248 | 🌐 CSS | 📅 2026-10-01
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -819,8 +819,8 @@ The number after the book name stands for the year in which the book was written
 
 ### Go
 
-* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,872 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,872 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,873 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,873 | 🐛 139 | 🌐 Go | 📅 2024-05-12
 * [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 * [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 * [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
@@ -971,7 +971,7 @@ The number after the book name stands for the year in which the book was written
 
 ### TypeScript
 
-* [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,363 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-21
+* [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,361 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-21
 * [📕 Effective TypeScript: 62 Specific Ways to Improve Your TypeScript (2019)](https://www.goodreads.com/book/show/48570456)
   * [Notes](https://github.com/danvk/effective-typescript) ⭐ 1,851 | 🐛 31 | 📅 2025-12-19
 * [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
@@ -1222,11 +1222,11 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 399,738 | 🐛 93 | 🌐 Python | 📅 2026-10-20
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,427 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
-* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,108 | 🐛 0 | 📅 2025-12-22
-* [Book notes](https://github.com/mgp/book-notes) ⭐ 4,113 | 🐛 8 | 📅 2023-03-16
-* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,595 | 🐛 0 | 📅 2026-10-01
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 399,838 | 🐛 92 | 🌐 Python | 📅 2026-10-22
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,435 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,109 | 🐛 0 | 📅 2025-12-22
+* [Book notes](https://github.com/mgp/book-notes) ⭐ 4,114 | 🐛 8 | 📅 2023-03-16
+* [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,597 | 🐛 0 | 📅 2026-10-01
 * [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 * [Influential CS books](https://github.com/chhantyal/influential-cs-books)
 * [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
@@ -1239,4 +1239,4 @@ The number after the book name stands for the year in which the book was written
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

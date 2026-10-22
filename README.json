@@ -147,7 +147,7 @@
                 "open_issues": 29,
                 "owner": "nfmcclure",
                 "repo": "tensorflow_cookbook",
-                "stars": 6237,
+                "stars": 6238,
                 "topics": [
                   "classification",
                   "cnn",
@@ -423,7 +423,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45393,
+                "stars": 45382,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -456,7 +456,7 @@
                     "open_issues": 139,
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43872,
+                    "stars": 43873,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
@@ -473,7 +473,7 @@
                 "open_issues": 139,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43872,
+                "stars": 43873,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -1085,7 +1085,7 @@
                 "open_issues": 2,
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10363,
+                "stars": 10361,
                 "topics": [
                   "book",
                   "free",
@@ -1216,11 +1216,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-20T13:00:21Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-22T14:45:58Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399738,
+            "stars": 399838,
             "topics": [
               "books",
               "education",
@@ -1247,7 +1247,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14427,
+            "stars": 14435,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1286,7 +1286,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5108,
+            "stars": 5109,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1317,7 +1317,7 @@
             "open_issues": 8,
             "owner": "mgp",
             "repo": "book-notes",
-            "stars": 4113,
+            "stars": 4114,
             "topics": [
               "book-notes",
               "books",
@@ -1344,7 +1344,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1595,
+            "stars": 1597,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:20:24.841Z",
+    "last_updated": "2026-10-22T19:14:42.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Books",
@@ -1373,7 +1373,7 @@
       "open_issues": 17,
       "owner": "linsa-io",
       "repo": "books",
-      "stars": 7723,
+      "stars": 7724,
       "topics": [
         "awesome",
         "awesome-list",

@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,439 | 🐛 248 | 🌐 CSS | 📅 2026-11-02
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,443 | 🐛 248 | 🌐 CSS | 📅 2026-11-02
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -819,8 +819,8 @@ The number after the book name stands for the year in which the book was written
 
 ### Go
 
-* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,858 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,858 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md) ⭐ 43,856 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+  * [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions) ⭐ 43,856 | 🐛 139 | 🌐 Go | 📅 2024-05-12
 * [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 * [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 * [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
@@ -859,13 +859,13 @@ The number after the book name stands for the year in which the book was written
 
 ### JavaScript
 
-* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
-  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
-  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
-  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
-  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
-  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
-  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
+* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
+  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
+  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
+  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
+  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
+  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
+  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 184,845 | 🐛 2 | 📅 2026-10-31
 * [📖 Exploring js](http://exploringjs.com/)
 * [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org)
 * [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
@@ -973,7 +973,7 @@ The number after the book name stands for the year in which the book was written
 
 * [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/) ⭐ 10,366 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06
 * [📕 Effective TypeScript: 62 Specific Ways to Improve Your TypeScript (2019)](https://www.goodreads.com/book/show/48570456)
-  * [Notes](https://github.com/danvk/effective-typescript) ⭐ 1,856 | 🐛 31 | 📅 2025-12-19
+  * [Notes](https://github.com/danvk/effective-typescript) ⭐ 1,857 | 🐛 31 | 📅 2025-12-19
 * [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 * [📖 SaaS Boilerplate Book: Build a Production-Ready SaaS Web App from Scratch (2020)](https://builderbook.org/book)
 
@@ -1222,8 +1222,8 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,116 | 🐛 103 | 🌐 Python | 📅 2026-11-01
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,512 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,214 | 🐛 89 | 🌐 Python | 📅 2026-11-07
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,516 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
 * [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,139 | 🐛 1 | 📅 2025-12-22
 * [Book notes](https://github.com/mgp/book-notes) ⭐ 4,116 | 🐛 8 | 📅 2023-03-16
 * [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,610 | 🐛 0 | 📅 2026-10-01
@@ -1239,4 +1239,4 @@ The number after the book name stands for the year in which the book was written
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

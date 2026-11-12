@@ -713,7 +713,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Operating Systems
 
-* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,771 | 🐛 69 | 🌐 TeX | 📅 2024-03-26
+* [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01) ⭐ 13,773 | 🐛 69 | 🌐 TeX | 📅 2024-03-26
 * [📕 Operating system concepts (1983)](https://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 * [📕 Modern operating systems (1992)](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 * [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
@@ -802,7 +802,7 @@ The number after the book name stands for the year in which the book was written
 
 ### C++
 
-* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,468 | 🐛 248 | 🌐 CSS | 📅 2026-11-02
+* [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,467 | 🐛 249 | 🌐 CSS | 📅 2026-11-02
 * [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 * [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
@@ -859,13 +859,13 @@ The number after the book name stands for the year in which the book was written
 
 ### JavaScript
 
-* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
-  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
-  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
-  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
-  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
-  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
-  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 184,844 | 🐛 2 | 📅 2026-10-31
+* [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
+  * [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
+  * [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
+  * [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
+  * [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
+  * [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
+  * [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond) ⭐ 184,851 | 🐛 2 | 📅 2026-10-31
 * [📖 Exploring js](http://exploringjs.com/)
 * [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org)
 * [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
@@ -1222,9 +1222,9 @@ The number after the book name stands for the year in which the book was written
 
 ## Other
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,424 | 🐛 100 | 🌐 Python | 📅 2026-11-07
-* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,540 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
-* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,146 | 🐛 1 | 📅 2025-12-22
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 401,493 | 🐛 91 | 🌐 Python | 📅 2026-11-12
+* [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,550 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+* [Awesome scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,152 | 🐛 2 | 📅 2025-12-22
 * [Book notes](https://github.com/mgp/book-notes) ⭐ 4,117 | 🐛 8 | 📅 2023-03-16
 * [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy) ⭐ 1,613 | 🐛 0 | 📅 2026-10-01
 * [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
@@ -1239,4 +1239,4 @@ The number after the book name stands for the year in which the book was written
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

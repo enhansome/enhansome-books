@@ -73,7 +73,7 @@
                 "open_issues": 2,
                 "owner": "havivha",
                 "repo": "Nand2Tetris",
-                "stars": 456,
+                "stars": 457,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -102,7 +102,7 @@
             "open_issues": 4,
             "owner": "terrytangyuan",
             "repo": "distributed-ml-patterns",
-            "stars": 547,
+            "stars": 545,
             "topics": [
               "argo",
               "argo-workflows",
@@ -147,7 +147,7 @@
                 "open_issues": 29,
                 "owner": "nfmcclure",
                 "repo": "tensorflow_cookbook",
-                "stars": 6236,
+                "stars": 6235,
                 "topics": [
                   "classification",
                   "cnn",
@@ -263,7 +263,7 @@
                 "open_issues": 3,
                 "owner": "alexprengere",
                 "repo": "FormalSystems",
-                "stars": 627,
+                "stars": 626,
                 "topics": [
                   "python"
                 ]
@@ -299,7 +299,7 @@
                 "open_issues": 5,
                 "owner": "careercup",
                 "repo": "CtCI-6th-Edition-Swift",
-                "stars": 453,
+                "stars": 452,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -423,7 +423,7 @@
                 "open_issues": 250,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45481,
+                "stars": 45484,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -456,7 +456,7 @@
                     "open_issues": 139,
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43853,
+                    "stars": 43851,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
@@ -473,7 +473,7 @@
                 "open_issues": 139,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43853,
+                "stars": 43851,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -541,7 +541,7 @@
                     "open_issues": 1,
                     "owner": "marhan",
                     "repo": "effective-java-examples",
-                    "stars": 583,
+                    "stars": 582,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
@@ -608,7 +608,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184859,
+                    "stars": 184863,
                     "topics": [
                       "async",
                       "book",
@@ -643,7 +643,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184859,
+                    "stars": 184863,
                     "topics": [
                       "async",
                       "book",
@@ -678,7 +678,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184859,
+                    "stars": 184863,
                     "topics": [
                       "async",
                       "book",
@@ -713,7 +713,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184859,
+                    "stars": 184863,
                     "topics": [
                       "async",
                       "book",
@@ -748,7 +748,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184859,
+                    "stars": 184863,
                     "topics": [
                       "async",
                       "book",
@@ -783,7 +783,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184859,
+                    "stars": 184863,
                     "topics": [
                       "async",
                       "book",
@@ -814,7 +814,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184859,
+                "stars": 184863,
                 "topics": [
                   "async",
                   "book",
@@ -1085,7 +1085,7 @@
                 "open_issues": 1,
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10372,
+                "stars": 10371,
                 "topics": [
                   "book",
                   "free",
@@ -1124,7 +1124,7 @@
                     "open_issues": 31,
                     "owner": "danvk",
                     "repo": "effective-typescript",
-                    "stars": 1858,
+                    "stars": 1855,
                     "topics": [
                       "books",
                       "typescript",
@@ -1217,10 +1217,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-12T18:46:04Z",
-            "open_issues": 124,
+            "open_issues": 127,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401844,
+            "stars": 401905,
             "topics": [
               "books",
               "education",
@@ -1247,7 +1247,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14580,
+            "stars": 14582,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1344,7 +1344,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1619,
+            "stars": 1621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:37:02.472Z",
+    "last_updated": "2026-11-19T22:40:46.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Books",
@@ -1373,7 +1373,7 @@
       "open_issues": 17,
       "owner": "gendotnew",
       "repo": "books",
-      "stars": 7788,
+      "stars": 7791,
       "topics": [
         "awesome",
         "awesome-list",

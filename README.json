@@ -228,7 +228,7 @@
             "open_issues": 69,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13787,
+            "stars": 13786,
             "topics": [
               "book",
               "operating-system"
@@ -423,7 +423,7 @@
                 "open_issues": 250,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45493,
+                "stars": 45496,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -456,7 +456,7 @@
                     "open_issues": 138,
                     "owner": "astaxie",
                     "repo": "build-web-application-with-golang",
-                    "stars": 43846,
+                    "stars": 43842,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:57.440Z"
@@ -473,7 +473,7 @@
                 "open_issues": 138,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43846,
+                "stars": 43842,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:57.440Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "joaoventura",
                 "repo": "full-speed-python",
-                "stars": 4063,
+                "stars": 4064,
                 "topics": [
                   "books",
                   "learning-by-doing",
@@ -1081,11 +1081,11 @@
                 "id": 532590625,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T10:06:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-25T21:02:56Z",
+                "open_issues": 2,
                 "owner": "gibbok",
                 "repo": "typescript-book",
-                "stars": 10370,
+                "stars": 10371,
                 "topics": [
                   "book",
                   "free",
@@ -1216,11 +1216,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-24T02:15:19Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-25T16:23:45Z",
+            "open_issues": 119,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402218,
+            "stars": 402291,
             "topics": [
               "books",
               "education",
@@ -1247,7 +1247,7 @@
             "open_issues": 32,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14611,
+            "stars": 14613,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1286,7 +1286,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "awesome-scifi",
-            "stars": 5171,
+            "stars": 5173,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1344,7 +1344,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1629,
+            "stars": 1630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:55:56.381Z",
+    "last_updated": "2026-11-25T23:40:15.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Books",
